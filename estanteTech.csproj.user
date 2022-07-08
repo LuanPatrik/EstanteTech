@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\FormDevolucao\FormLivroDevolucao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormEmprestimo\FormLivroEmprestimo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormEmprestimo\FormEmprestimo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormFuncionario\FormAddEditFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormFuncionario\FormCadastroFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Formleitor\FormAddEditLeitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Formleitor\FormCadastroLeitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormLivro\FormAddEditLivro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormLivro\FormCadastroLivro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormLogin\FormTelaLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
